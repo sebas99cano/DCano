@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=Montserrat:wght@400;500&family=Open+Sans:wght@500&family=Poppins:wght@500;600&display=swap");
+/*=== VARIABLES CSS ===*/
+:root {
+  /*=== COLORS ===*/
+  --white-color: #fff;
+  --background-color: #f6f5f7;
+  --input-color: #eee;
+  --gray-color: #333;
+
+  /*=== FONT ===*/
+  --body-font: "Open Sans", sans-serif;
+}
+body {
+  font-family: var(--body-font);
+  background: var(--background-color);
+}
